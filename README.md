@@ -22,7 +22,7 @@ TechnoXander’s AI-powered AML Investigation Platform supports compliance teams
 
 ## Sources
 
-- Source details and referenced articles: [`sources/source-manifest.md`](source-manifest.md)
+- Source details and referenced articles: [`source-manifest.md`](source-manifest.md)
 - Primary source: [AML Investigation Platform solution page](https://technoxander.com/aml-investigation-platform/)
 
 ## Notes
