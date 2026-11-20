@@ -1,27 +1,37 @@
 # AML Investigation Platform
 
-One-page briefs on the TechnoXander **AI-powered AML investigation platform**: how AI-assisted AML investigation works, what the platform does, and how it supports explainable, auditable decisions for UK financial institutions.
+This repository contains one-page, A4 PDF documents introducing and explaining TechnoXander’s [AML Investigation Platform](https://technoxander.com/aml-investigation-platform/).
 
-**Start here:** [AML Investigation Platform](https://technoxander.com/aml-investigation-platform/) · [TechnoXander](https://technoxander.com/) · [Knowledge Series](https://technoxander.com/category) · [Contact](https://technoxander.com/contact/)
+## About the solution
 
-## Briefs in this directory
+TechnoXander’s AI-powered AML Investigation Platform supports compliance teams with evidence gathering, policy-driven analysis and structured investigation workflows. Specialised AI agents assist with case preparation and recommendations, while authorised financial crime professionals retain control of decisions. The platform is designed around explainability, traceability and audit-ready case handling. **AI recommends. Humans decide.**
 
-| # | Brief | Covers |
-|---|-------|--------|
-| 01 | Platform Overview | What the platform does at a glance |
-| 02 | Why Alerts Need Investigation Support | Manual context assembly, policy gaps, lost reasoning |
-| 03 | How It Works | Alert intake to case resolution and SAR support |
-| 04 | Features | Nine capabilities for explainable AML investigation |
-| 05 | Benefits | Capacity, consistency, cost and auditability |
-| 06 | FAQ | Common questions on AML investigation software |
-| 07 | Trust and Deployment | Security, integration, data residency, AI oversight |
+## Document index
 
-## Related reading
-- [AML false positives and missing context](https://technoxander.com/aml-false-positives-uk-banks/)
-- [SAR quality and legal defence](https://technoxander.com/daml-risk-sar-quality-uk-aml/)
-- [RAG-powered, explainable AML AI](https://technoxander.com/rag-ai-aml-investigation-explainable/)
-- [What the FCA expects from AML AI models](https://technoxander.com/fca-aml-ai-model-governance-expectations/)
+| # | Document | PDF |
+|---:|---|---|
+| 01 | Introduction to the AML Investigation Platform | [01-introduction-to-aml-investigation-platform.pdf](sections/01-introduction/01-introduction-to-aml-investigation-platform.pdf) |
+| 02 | Manual AML investigation challenges | [02-manual-aml-investigation-challenges.pdf](sections/02-manual-challenges/02-manual-aml-investigation-challenges.pdf) |
+| 03 | AI-assisted AML investigation | [03-ai-assisted-aml-investigation.pdf](sections/03-ai-assisted-investigation/03-ai-assisted-aml-investigation.pdf) |
+| 04 | Specialised agents in AML investigation | [04-specialised-agents-in-aml-investigation.pdf](sections/04-specialised-agents/04-specialised-agents-in-aml-investigation.pdf) |
+| 05 | AML investigation workflow | [05-aml-investigation-workflow.pdf](sections/05-investigation-workflow/05-aml-investigation-workflow.pdf) |
+| 06 | Key features of the AML Investigation Platform | [06-key-features-of-aml-investigation-platform.pdf](sections/06-features/06-key-features-of-aml-investigation-platform.pdf) |
+| 07 | Benefits of AI-powered AML investigations | [07-benefits-of-ai-powered-aml-investigations.pdf](sections/07-benefits/07-benefits-of-ai-powered-aml-investigations.pdf) |
+| 08 | Human oversight and explainability | [08-human-oversight-and-explainability.pdf](sections/08-human-oversight/08-human-oversight-and-explainability.pdf) |
+| 09 | AML Investigation Platform FAQs | [09-aml-investigation-platform-faqs.pdf](sections/09-faqs/09-aml-investigation-platform-faqs.pdf) |
 
-Book a demo or ask a question: [technoxander.com/contact](https://technoxander.com/contact/)
+## Sources
 
-*General information, not legal advice. Check current regulatory guidance and your firm's approved procedures.*
+- Source details and referenced articles: [`sources/source-manifest.md`](sources/source-manifest.md)
+- Primary source: [AML Investigation Platform solution page](https://technoxander.com/aml-investigation-platform/)
+
+## Notes
+
+- Content is based on official TechnoXander materials reviewed for this collection.
+- AI is described as assisting investigations and providing recommendations; final decisions remain with authorised financial crime professionals.
+- No quantified time or cost savings are claimed beyond capability descriptions provided in source materials.
+
+## Contact
+
+- Website: [www.technoxander.com](https://www.technoxander.com)
+- Email: [info@technoxander.com](mailto:info@technoxander.com)
